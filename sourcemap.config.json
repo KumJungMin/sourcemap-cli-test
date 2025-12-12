@@ -1,8 +1,7 @@
 {
   "apps": [
-    {
-      "name": "vue-cli-test-app",
-      "distPath": "./target-vite"
-    }
+    { "name": "vue-app-1", "distPath": "apps/vue-app-1/dist", "appPath": "apps/vue-app-1" },
+    { "name": "react-app-1", "distPath": "apps/react-app-1/dist", "appPath": "apps/react-app-1" },
+    { "name": "vue-app-2", "distPath": "apps/vue-app-2/dist", "appPath": "apps/vue-app-2" }
   ]
 }
