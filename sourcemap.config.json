@@ -1,0 +1,8 @@
+{
+  "apps": [
+    {
+      "name": "vue-cli-test-app",
+      "distPath": "./target-vite"
+    }
+  ]
+}
